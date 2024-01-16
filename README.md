@@ -20,7 +20,7 @@ Your task (whether you choose to accept it or not?) is to manipulate the DOM in 
 7. Resize the new image to a height of 250 pixels using JavaScript.
 8. Integrate an additional image of your choice using Javascript innerHTML, positioning it below or to the right of the existing image.
 9. Adjust the height of the new image to 280 pixels programmatically with JavaScript.
-10. Append a 16th `<li>` element to the list using innerHTML, and assign it an ID following the numbering pattern of the existing list items.
+10. Append a 17th `<li>` element to the list using innerHTML, and assign it an ID following the numbering pattern of the existing list items.
 11. Assign the same class as the other list items to the new `<li>` element using JavaScript.
 12. Populate the new `<li>` with the following text:
    > "Never gonna give you up."
